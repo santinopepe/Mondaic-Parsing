@@ -1,3 +1,4 @@
+-- Pilar Frutos and Santino Pepe
 module Dictionary (T, empty, lookup, insert) where
 
 import Prelude hiding (lookup)

@@ -1,3 +1,4 @@
+-- Pilar Frutos and Santino Pepe
 module Expr(Expr, T, parse, fromString, value, toString, Result) where
 
 {-

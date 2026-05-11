@@ -1,3 +1,4 @@
+-- Pilar Frutos and Santino Pepe
 module Program(T, parse, fromString, toString, exec) where
 
 import Parser hiding (T)
